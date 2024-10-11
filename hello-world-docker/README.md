@@ -1,0 +1,14 @@
+# Hello World Docker App
+
+This project demonstrates how to create a simple Nginx web server in a Docker container that serves a basic HTML page. It is an introductory project to Docker and covers the basics of building and running a containerized application.
+
+## Project Structure
+
+- `index.html` - A simple HTML page that says "Hello from Docker!"
+- `Dockerfile` - Defines the Docker image, based on the official Nginx image, and copies the HTML file into the container.
+
+## Steps to Run
+
+1. **Build the Docker image:**
+   ```bash
+   docker build -t hello-world-app .
