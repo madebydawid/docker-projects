@@ -4,7 +4,7 @@ This project demonstrates how to create a simple Nginx web server in a Docker co
 
 ## Project Structure
 
-- `index.html` - A simple HTML page that says "Hello from Docker!"
+- `index.html` - A simple HTML page that says "Hello World, This is Dawid Trying Out Docker!"
 - `Dockerfile` - Defines the Docker image, based on the official Nginx image, and copies the HTML file into the container.
 
 ## Steps to Run
