@@ -16,6 +16,3 @@ Each project has its own folder with instructions on how to build and run the Do
 - [Docker](https://www.docker.com/products/docker-desktop) installed on your local machine or access to a web-based environment like GitHub Codespaces.
 - Basic familiarity with the command line.
 
-## License
-
-This repository is licensed under the MIT License.
