@@ -12,3 +12,15 @@ This project demonstrates how to create a simple Nginx web server in a Docker co
 1. **Build the Docker image:**
    ```bash
    docker build -t hello-world-app .
+
+2. **Run the Docker container:**
+   ```bash
+   docker run -d -p 8080:80 hello-world-app
+
+3. **Stop Container:**
+   ```bash
+   docker stop [container-id]
+
+4. **Remove Container:**
+   ```bash
+   docker rm [container-id]
