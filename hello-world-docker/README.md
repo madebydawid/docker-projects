@@ -8,7 +8,6 @@ This project demonstrates how to create a simple Nginx web server in a Docker co
 - `Dockerfile` - Defines the Docker image, based on the official Nginx image, and copies the HTML file into the container.
 
 ## Steps to Run
-[Screenshot of whole process](https://github.com/madebydawid/docker-projects/blob/main/images/full-container-build.jpg?raw=true)
 
 1. **Build the Docker image:**
    ```bash
@@ -29,3 +28,11 @@ This project demonstrates how to create a simple Nginx web server in a Docker co
 5. **Remove Container:**
    ```bash
    docker rm [container-id]
+
+## Screenshots
+
+- [Screenshot of whole docker process](https://github.com/madebydawid/docker-projects/blob/main/images/full-container-build.jpg?raw=true)
+
+- [Final result in browser window](https://github.com/madebydawid/docker-projects/blob/main/images/hello-world-page.jpg?raw=true)
+
+
