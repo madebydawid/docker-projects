@@ -28,6 +28,10 @@ This project demonstrates how to create a simple Nginx web server in a Docker co
 5. **Remove Container:**
    ```bash
    docker rm [container-id]
+6. **Verify Container removal**
+   ```bash
+   docker ps -a
+   ```
 
 ## Screenshots
 
